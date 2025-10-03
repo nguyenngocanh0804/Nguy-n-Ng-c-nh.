@@ -14,7 +14,7 @@ Bộ test tự động kiểm tra các chức năng đăng nhập trên trang **
 
 ## Yêu cầu
 - Python 3.13+  
-- Trình duyệt Chrome mới nhất  
+- Trình duyệt Chrome cùng với ChromeDriver
 - Thư viện Python:
   - selenium
   - webdriver-manager
@@ -23,8 +23,9 @@ Bộ test tự động kiểm tra các chức năng đăng nhập trên trang **
 
 ## Cài đặt thư viện
 Mở CMD 
-```bash
-pip install selenium webdriver-manager  
-cd C:\selenium
-python test_login.py -v  
-Màn hình sẽ hiện ra kết quả: 
+Gõ các lệnh  
+- pip install selenium webdriver-manager  
+- cd C:\selenium  
+- python test_login.py -v    
+- Màn hình sẽ hiện ra kết quả:
+![ảnh](https://github.com/nguyenngocanh0804/Nguy-n-Ng-c-nh./blob/52e0394dfe3af4fa8f954a5144801e3b1a25dea1/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-10-03%20102752.png)
