@@ -28,4 +28,4 @@ Gõ các lệnh
 - cd C:\selenium  
 - python test_login.py -v    
 - Màn hình sẽ hiện ra kết quả:
-![ảnh](https://github.com/nguyenngocanh0804/Nguy-n-Ng-c-nh./blob/52e0394dfe3af4fa8f954a5144801e3b1a25dea1/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-10-03%20102752.png)
+![ảnh](https://github.com/nguyenngocanh0804/Nguy-n-Ng-c-nh./blob/7ac467ebb8dafda0b0126716bc081d0387ef8ee4/%E1%BA%A2nh%20ch%E1%BB%A5p%20minh%20ch%E1%BB%A9ng.png)
